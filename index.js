@@ -69,10 +69,10 @@ function Refresh() {
 // Function to create a custom marker element with inline styles
 function createCustomMarkerElement() {
   const markerElement = document.createElement("div");
-  markerElement.style.width = "6px"; // Set the width
-  markerElement.style.height = "6px"; // Set the height
+  markerElement.style.width = "6px";
+  markerElement.style.height = "6px";
   markerElement.style.backgroundColor = "red";
-  markerElement.style.borderRadius = "50%"; // Make it round (for a circular marker)
+  markerElement.style.borderRadius = "50%";
   return markerElement;
 }
 
