@@ -3,6 +3,7 @@
 # Map-exercise 🗺️
 
 In this challenge, you'll need to use the map from [OpenFreeMap](https://openfreemap.org) to print in real time the public transport of Los Angeles. 🚌
+
 You will use the library [MapLibre](https://maplibre.org) to display the map and the Metro’s Realtime API to get the public transport data.
 
 ## Tasks 📝
